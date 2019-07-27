@@ -5,6 +5,7 @@ public class Solution230_1 {
 
     public static void main(String[] args) {
         // the following only works when the input for n isn't too big for an integer
+        // it creates the actual fibonacci words sequence  
         int q;
         String a;
         String b;

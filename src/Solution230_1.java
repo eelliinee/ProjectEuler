@@ -4,7 +4,7 @@ import java.util.*;
 public class Solution230_1 {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        // the following only works when the input for n isn't too big for an integer
         int q;
         String a;
         String b;
